@@ -52,10 +52,10 @@ def whoisInfo():
 
 
 
-def subdomainBrute():
+#def subdomainBrute():
 
 
-def pathfinder():
+#def pathfinder():
 
 
 find_domain()
